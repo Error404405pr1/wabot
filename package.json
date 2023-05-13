@@ -18,8 +18,8 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/Error404405pr1/wabot",
-  "author": "ERROR-TECH",
+  "base": "https://github.com/harshitethic/whatsapp-turbo-gpt",
+  "author": "Harshit Sharma",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys@^6.0.7",
@@ -44,10 +44,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Error404405pr1/wabot.git"
+    "url": "git+https://github.com/harshitethic/whatsapp-turbo-gpt.git"
   },
   "bugs": {
-    "url": "https://github.com/Error404405pr1/wabot/issues"
+    "url": "https://github.com/harshitethic/whatsapp-turbo-gpt/issues"
   },
-  "homepage": "https://github.com/Error404405pr1/wabot#readme"
+  "homepage": "https://github.com/harshitethic/whatsapp-turbo-gpt#readme"
 }
